@@ -21,11 +21,12 @@ Label free quantitation
  </td>
    <td width="4%">&nbsp;</td>
    </tr>
-   <tr>
+   <tr valign="top">
+ 
    <td width="4%" height="24">&nbsp;</td>
-   <td>
-     Preparatory folder contains other scripts to create files which are mandatory requirement for iBAQ and NSAF calculation. For sample online usage please refer to URL: http://protocols.ibioinformatics.org/InHouse/ihp_ibaq_nsaf.php
-     </td>
-     <td width="4%">&nbsp;</td>
-     </tr>
- </table>
+   <td colspan="2"><p><em><strong>NOTE:</strong></em></p>
+   <p align="justify">Preparatory folder contains other scripts to create files which are mandatory requirement for iBAQ and NSAF calculation. For sample online usage please refer to URL: http://protocols.ibioinformatics.org/InHouse/ihp_ibaq_nsaf.php</p><br />
+    </td>
+   <td width="4%">&nbsp;</td>
+   </tr>
+  </table>
