@@ -1,4 +1,4 @@
-# iBAQ-and-NSAF
+# iBAQ
 Label free quantitation
 <table >
 
