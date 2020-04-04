@@ -25,7 +25,7 @@ Label free quantitation
  
    <td width="4%" height="24">&nbsp;</td>
    <td colspan="2"><p><em><strong>NOTE:</strong></em></p>
-   <p align="justify">Preparatory folder contains other scripts to create files which are mandatory requirement for iBAQ and NSAF calculation. For sample online usage please refer to URL: http://protocols.ibioinformatics.org/InHouse/ihp_ibaq_nsaf.php</p><br />
+   <p align="justify">If you prefer to analyze your data online then please refer to PTM-Pro2.0: http://ptm-pro.inhouseprotocols.com/</p><br />
     </td>
    <td width="4%">&nbsp;</td>
    </tr>
